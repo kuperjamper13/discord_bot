@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 # You can get this from the Discord Developer Portal: https://discord.com/developers/applications
 # It's recommended to use environment variables for security, but for simplicity, we'll place it here for now.
 # Example using environment variable: TOKEN = os.getenv('DISCORD_BOT_TOKEN')
-TOKEN = 'API KEY'
+TOKEN = 'YOUR_BOT_TOKEN'
 STATS_FILE = 'stats.json'
 SAVE_INTERVAL_SECONDS = 60 # How often to save stats to the file
 
